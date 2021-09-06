@@ -1,0 +1,15 @@
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\bin\Debug\SistemaChamados.exe.config
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\bin\Debug\SistemaChamados.exe
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\bin\Debug\SistemaChamados.pdb
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.csproj.AssemblyReference.cache
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Properties.Resources.resources
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.csproj.GenerateResource.cache
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.csproj.CoreCompileInputs.cache
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.exe
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.pdb
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Forms.Chamados.Base.resources
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Forms.Usuarios.Cadastro.resources
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Forms.Usuarios.UserBase.resources
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Forms.Usuarios.Editar.resources
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Forms.Chamados.Cadastro.resources
+C:\Users\luper\source\repos\Sistema de Chamados\SistemaChamados\obj\Debug\SistemaChamados.Forms.Chamados.Editar.resources
